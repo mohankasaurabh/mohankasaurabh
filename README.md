@@ -1,10 +1,10 @@
-Hi there 👋
-🔭 I’m @mohankasaurabh currently studying in Lovely Professional University
+Hi there 👋<br>
+🔭 I’m @mohankasaurabh currently studying in Lovely Professional University <br>
 
-🌱 I’m currently in learning stage
-👯 I’m looking to collaborate on software development
-🤔 I’m looking for help with algorithms
-💬 Ask me about python
+🌱 I’m currently in learning stage <br>
+👯 I’m looking to collaborate on software development <br>
+🤔 I’m looking for help with algorithms <br>
+💬 Ask me about python <br>
 📫 How to reach me: https://www.linkedin.com/in/saurabh-mohanka-23b533228/ 
 
 <!---
