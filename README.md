@@ -6,7 +6,7 @@ Hi there 👋<br>
 👯 I’m looking to collaborate on software development <br>
 🤔 I’m looking for help with algorithms <br>
 💬 Ask me about python <br>
-📫 How to reach me: https://www.linkedin.com/in/saurabh-mohanka-23b533228/ 
+📫 How to reach me: www.linkedin.com/in/saurabhkumarmohanka
 
 <!---
 mohankasaurabh/mohankasaurabh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
