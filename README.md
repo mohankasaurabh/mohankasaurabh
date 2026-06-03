@@ -3,9 +3,6 @@
 <h3 align="center">
 AI/ML & Computer Vision Engineer | Building Intelligent Vision Systems
 </h3>
----
-
-## 🚀 About Me
 
 🎓 B.Tech CSE Graduate from Lovely Professional University
 
@@ -13,6 +10,7 @@ AI/ML & Computer Vision Engineer | Building Intelligent Vision Systems
 
 💡 Interested in:
 
+* AI/ML
 * Computer Vision
 * Object Detection
 * Multi-Object Tracking
@@ -32,7 +30,7 @@ AI/ML & Computer Vision Engineer | Building Intelligent Vision Systems
 
 ### Connect With Me
 
-📧 [saurabhkrmohanka@gmail.com](mailto:saurabhkrmohanka@gmail.com)
+[saurabhkrmohanka@gmail.com](mailto:saurabhkrmohanka@gmail.com)
 
 ---
 
