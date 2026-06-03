@@ -1,6 +1,11 @@
-# Hi 👋, I'm Saurabh Kumar Mohanka
+<h1 align="center">Hi 👋, I'm Saurabh Kumar Mohanka</h1>
 
-### AI/ML & Computer Vision Engineer
+<h3 align="center">
+AI/ML & Computer Vision Engineer | Building Intelligent Vision Systems
+</h3>
+---
+
+## 🚀 About Me
 
 🎓 B.Tech CSE Graduate from Lovely Professional University
 
