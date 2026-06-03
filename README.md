@@ -29,10 +29,6 @@
 
 📧 [saurabhkrmohanka@gmail.com](mailto:saurabhkrmohanka@gmail.com)
 
-💼 LinkedIn: linkedin.com/in/saurabhkumarmohanka
-
-🌐 GitHub: github.com/mohankasaurabh
-
 ---
 
 *"Turning video streams into actionable intelligence."*
