@@ -35,5 +35,3 @@ AI/ML & Computer Vision Engineer | Building Intelligent Vision Systems
 ---
 
 *"Turning video streams into actionable intelligence."*
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohankasaurabh&show_icons=true&theme=github_dark)
